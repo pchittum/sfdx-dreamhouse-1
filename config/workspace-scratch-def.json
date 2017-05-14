@@ -1,6 +1,7 @@
 {
   "Company": "Your Company",
   "Country": "US",
+  "LastName": "yourname",
   "Email": "yourname@example.com",
   "Edition": "Developer",
   "OrgPreferences" : {
